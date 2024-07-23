@@ -1,4 +1,4 @@
-SELECT
+sELECT
     summons_number,
     registration_state,
     plate_type,
@@ -21,3 +21,4 @@ SELECT
     vehicle_year,
 FROM
     parking_violations_2023
+    
